@@ -8,13 +8,13 @@ A simple To-Do List web app, made with Yii Framework.
 **Users Example:**
 
 
-Username: joaowd
+- Username: joaowd
 
-Password: 123
+- Password: 123
 
 **Administration:**
 
 
-Username: admin
+- Username: admin
 
-Password: admin
+- Password: admin
