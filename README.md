@@ -6,6 +6,7 @@ A simple To-Do List web app, made with Yii Framework.
 ###Instructions
 
 Import the database to a MySQL application.
+
 Rename the folder to todolist.
 
 #####Database
