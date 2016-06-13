@@ -11,7 +11,7 @@ Rename the folder to todolist.
 
 #####Database
 
-The database is in the __DATABASE_ folder.
+The database is in the *_DATABASE* folder.
 
 #####Adress
 http://localhost**/todolist/web/**
