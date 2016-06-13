@@ -3,27 +3,27 @@ To-Do List
 
 A simple To-Do List web app, made with Yii Framework.
 
-###Instructions
+##Instructions
 
 Import the database to a MySQL tool.
 
 Rename the folder to todolist.
 
-#####Database
+####Database
 
 The database is in the *_DATABASE* folder.
 
-#####Adress
+####Adress
 http://localhost**/todolist/web/**
 
-#####Users Example:
+####Users Example:
 
 
 - Username: joaowd
 
 - Password: 123
 
-#####Administration:
+####Administration:
 
 
 - Username: admin
